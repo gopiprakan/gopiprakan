@@ -68,13 +68,13 @@ Through **Zaro**, I provide professional website development services for busine
 ### Sample Links
 
 🌐 Zaro Website  
-https://your-zaro-website.com
+https://zaro-web-teal.vercel.app/
 
 📂 Portfolio Website  
-https://your-portfolio.com
+https://gopiprakan-portfolio.com
 
 📧 Business Contact  
-your-email@example.com
+gopiprakan2006@gmail.com
 
 ---
 
