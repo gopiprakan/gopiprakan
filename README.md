@@ -135,14 +135,19 @@ A complete web solution designed to improve business visibility and customer eng
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gopiprakan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gopiprakan&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopiprakan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gopiprakan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=gopiprakan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopiprakan&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
