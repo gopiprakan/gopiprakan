@@ -137,9 +137,7 @@ A complete web solution designed to improve business visibility and customer eng
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gopiprakan/gopiprakan/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/gopiprakan/gopiprakan/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
 
 ---
 
