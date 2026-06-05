@@ -135,12 +135,10 @@ A complete web solution designed to improve business visibility and customer eng
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopiprakan&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopiprakan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/gopiprakan/gopiprakan/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
