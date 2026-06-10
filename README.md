@@ -13,7 +13,7 @@ AI & Data Science Student | Freelance Web Developer | Machine Learning Enthusias
 ## 🚀 About Me
 
 🎓 **B.Tech Artificial Intelligence & Data Science**  
-🏫 **V.S.B Engineering College**
+🏫 **V.S.B Engineering College Karur**
 
 💼 **Founder & Freelance Web Developer at Zaro**
 
