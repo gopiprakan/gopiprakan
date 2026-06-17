@@ -178,5 +178,5 @@ A complete web solution designed to improve business visibility and customer eng
 </p>
 
 <h3 align="center">
-⭐ Thanks for visiting my profile-⭐
+⭐-Thanks for visiting my profile-⭐
 </h3>
