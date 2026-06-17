@@ -169,7 +169,7 @@ A complete web solution designed to improve business visibility and customer eng
 
 ## 💭 Personal Motto
 
-> "Technology becomes meaningful when it solves real-world problems and creates value for people."
+> "Technology becomes meaningful when it solves real-world problems and creates value for people"
 
 ---
 
