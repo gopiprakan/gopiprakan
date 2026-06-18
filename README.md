@@ -1,182 +1,140 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gopiprakan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Gopiprakan</h1>
 
 <h3 align="center">
-AI & Data Science Student | Freelance Web Developer | Machine Learning Enthusiast
+AI & Data Science Student • Founder @ Zaro • Freelance Web Developer • ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Freelance+Web+Developer+at+Zaro;Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Digital+Solutions+for+Businesses;Open+Source+Learner;Turning+Ideas+Into+Real+World+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Founder+%40+Zaro;Freelance+Web+Developer;Machine+Learning+Enthusiast;Building+Digital+Solutions;Always+Learning+Something+New" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 **B.Tech Artificial Intelligence & Data Science**  
-🏫 **V.S.B Engineering College Karur**
+🎓 B.Tech Artificial Intelligence & Data Science
 
-💼 **Founder & Freelance Web Developer at Zaro**
+🏫 V.S.B Engineering College, Karur
 
-I am passionate about building intelligent applications, modern web solutions, and scalable software systems. Alongside my academic journey in AI & Data Science, I work as a freelance web developer through **Zaro**, helping businesses, startups, and personal brands establish a strong online presence.
+💼 Founder & Freelance Web Developer at **Zaro**
 
-### 🌟 What I Do
+🌱 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development.
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Custom Website Development
-- 📱 Responsive Web Design
-- 💻 Full Stack Development
-- 🚀 Startup Landing Pages
-- 🔧 Backend Integration
-- 📊 Data Analytics & Visualization
-- ☁️ Cloud-Based Applications
-
-### 🌱 Currently Learning
-
-- Advanced Machine Learning
-- AI Agents & Automation
-- Cloud Technologies
-- System Design
-- Modern Full Stack Development
-
-### 🎯 Career Goals
-
-- Become an AI Engineer & Full Stack Developer
-- Build impactful AI-powered products
-- Contribute to Open Source Projects
-- Grow Zaro into a successful digital solutions company
-- Help businesses leverage technology for growth
+🚀 I help startups, businesses, and individuals build modern, responsive, and scalable web applications.
 
 ---
 
-## 💼 Freelance Experience
+## 🎯 Current Focus
 
-### 🚀 Founder & Freelance Web Developer | Zaro
-
-Through **Zaro**, I provide professional website development services for businesses, startups, and entrepreneurs.
-
-### Services Offered
-
-✅ Business Website Development  
-✅ Portfolio Website Development  
-✅ Startup Landing Pages  
-✅ Responsive Website Design  
-✅ Website Redesign & Optimization  
-✅ Frontend Development  
-✅ Backend Integration  
-✅ Website Maintenance & Support
-
-### Sample Links
-
-🌐 Zaro Website  
-https://zaro-web-teal.vercel.app/
-
-📂 Portfolio Website  
-https://gopiprakan-portfolio.com
-
-📧 Business Contact  
-gopiprakan2006@gmail.com
+- 🤖 Learning Advanced Machine Learning
+- 🌐 Building Websites through Zaro
+- 📊 Exploring Data Analytics
+- 💻 Developing Full Stack Applications
+- 🚀 Open Source Contributions
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Freelance Services
 
-### Programming Languages
+✅ Business Websites
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
-</p>
+✅ Portfolio Websites
 
-### Frameworks & Technologies
+✅ Startup Landing Pages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,supabase,firebase" />
-</p>
+✅ Website Redesign
 
-### Tools & Platforms
+✅ Responsive UI Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+✅ Backend Integration
+
+✅ Maintenance & Support
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,react,nodejs,firebase,supabase,git,github,vscode" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🤖 AI Chatbot for College Website
-An intelligent chatbot that assists students with college-related information and support services.
+🤖 AI Chatbot for College Website
 
-### 🔐 Two-Step Verification System
-A secure authentication solution implementing multi-factor verification to improve user security.
+🔐 Two-Step Verification System
 
-### ⛓️ Blockchain Certificate Verification
-A blockchain-powered platform designed to verify academic certificates and reduce document fraud.
+⛓ Blockchain Certificate Verification
 
-### 💧 DHARNIKAA Pure Water Website
-A modern business website developed for a water supply service with responsive design and customer-focused features.
+💧 DHARNIKAA Pure Water Website
 
-### 🌐 Water Transport & Supply Business Website
-A complete web solution designed to improve business visibility and customer engagement.
+🌐 Water Transport Business Website
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Achievements
 
 🏅 Machine Learning Internship
 
-🏅 AI & Data Science Certifications
+🏅 ServiceNow Virtual Internship
 
 🏅 Google AI Learning Programs
 
-🏅 ServiceNow Virtual Internship
+🏅 AI & Data Science Certifications
 
-🏅 Active Contributor to Personal & Academic Projects
+🏅 Freelance Founder @ Zaro
+
+---
+
+## 💻 Coding Profiles
+
+- 🔶 LeetCode: https://leetcode.com/u/wZeBSNNRFh/
+- 📊 Kaggle: https://www.kaggle.com/gopiprakan
+- 🐙 GitHub: https://github.com/gopiprakan
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/gopiprakan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/gopiprakan-s-98ab41292/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  
-  <a href="https://www.kaggle.com/gopiprakan" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" />
-  </a>
-  
-  <a href="https://leetcode.com/u/wZeBSNNRFh/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50" />
-  </a>
-  
-  <a href="https://www.instagram.com/mr_creative_officl/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-  </a>
-  
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="50" />
-  </a>
-</p>
 
-<p align="center">
-  <b>Let's connect, collaborate, and build amazing projects together! 🚀</b>
+<a href="https://github.com/gopiprakan">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gopiprakan-s-98ab41292/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://www.kaggle.com/gopiprakan">
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48"/>
+</a>
+
+<a href="https://leetcode.com/u/wZeBSNNRFh/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+</a>
+
+<a href="https://www.instagram.com/mr_creative_officl/">
+<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
+</a>
+
 </p>
 
 ---
 
-## 💭 Personal Motto
+## 💭 Motto
 
-> "Technology becomes meaningful when it solves real-world problems and creates value for people"
+> *"Technology becomes meaningful when it solves real-world problems and creates value for people."*
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gopiprakan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 <h3 align="center">
-⭐-Thanks for visiting my profile-⭐
+⭐ Thanks for Visiting My Profile ⭐
 </h3>
+```
