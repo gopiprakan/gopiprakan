@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Gopiprakan</h1>
 
 <h3 align="center">
-AI & Data Science Student • Founder @ Zaro • Freelance Web Developer • ML Enthusiast
+AI & Data Science Student • Founder @ ZARO • Freelance Web Developer • ML Enthusiast
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ AI & Data Science Student • Founder @ Zaro • Freelance Web Developer • ML 
 
 🏫 V.S.B Engineering College, Karur
 
-💼 Founder & Freelance Web Developer at **Zaro**
+💼 Founder & Freelance Web Developer at **ZARO**
 
 🌱 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development.
 
