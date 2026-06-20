@@ -31,7 +31,7 @@ AI & Data Science Student • Founder @ ZARO • Freelance Web Developer • ML 
 ## 🎯 Current Focus
 
 - 🤖 Learning Advanced Machine Learning
-- 🌐 Building Websites through Zaro
+- 🌐 Building Websites through ZARO
 - 📊 Exploring Data Analytics
 - 💻 Developing Full Stack Applications
 - 🚀 Open Source Contributions
