@@ -88,7 +88,7 @@ AI & Data Science Student • Founder @ ZARO • Freelance Web Developer • ML 
 
 🏅 AI & Data Science Certifications
 
-🏅 Freelance Founder @ Zaro
+🏅 Freelance Founder @ ZARO
 
 ---
 
