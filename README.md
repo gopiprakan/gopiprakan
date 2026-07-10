@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gopiprakan</h1>
 
 <h3 align="center">
-AI & Data Science Student | Founder @ ZARO | Freelance Web Developer | ML Enthusiast
+AI & Data Science Student | Founder @ ZARO |Freelance Web Developer | ML Enthusiast
 </h3>
 
 <p align="center">
