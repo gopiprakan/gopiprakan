@@ -20,7 +20,7 @@ AI & Data Science Student | Founder @ ZARO | Freelance Web Developer | ML Enthus
 
 🏫 V.S.B Engineering College, Karur
 
-💼 Founder & Freelance Web Developer at **ZARO**
+💼 Founder & Freelance Web Developer at **ZARO
 
 🌱 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development.
 
