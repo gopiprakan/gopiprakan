@@ -46,7 +46,7 @@ AI & Data Science Student | Founder @ ZARO | Freelance Web Developer | ML Enthus
 * ✅ Website Redesign
 * ✅ Responsive UI Development
 * ✅ Backend Integration
-* ✅ Website Maintenance & Support
+* ✅ Website Maintenance & Support 24/7
 
 ---
 
