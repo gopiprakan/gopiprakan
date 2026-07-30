@@ -123,11 +123,13 @@ Goal:
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gopiprakan&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gopiprakan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopiprakan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
