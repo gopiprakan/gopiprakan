@@ -127,9 +127,7 @@ Goal:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gopiprakan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gopiprakan&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gopiprakan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
