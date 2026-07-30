@@ -145,26 +145,6 @@ Goal:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gopiprakan&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopiprakan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📂 Coding Profiles
 
 <div align="center">
