@@ -241,28 +241,6 @@ Goal:
 
 ---
 
-# 🎵 Spotify (Optional)
-
-Replace **YOUR_SPOTIFY_ID** with your Spotify ID.
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</div>
-
----
-
-# 👀 Visitors
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/gopiprakan/count.svg"/>
-
-</div>
-
----
-
 <div align="center">
 
 ## ⭐ Thanks for Visiting
