@@ -1,96 +1,79 @@
-<!-- ========================================= -->
-<!--              ANIMATED HEADER              -->
-<!-- ========================================= -->
+<!-- ===================================================== -->
+<!--                 PREMIUM GITHUB PROFILE                -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=GOPIPRAKAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Founder%20@%20ZARO&descAlignY=60"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-7d4d8d96-52f1-43ff-8a2b-7e7f9a47d6e3.gif"/>
 
-</div>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Gopiprakan
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Founder+of+ZARO;Freelance+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Technologies" />
 
-<div align="center">
-
-# 👋 Hi, I'm Gopiprakan
-
-### 🚀 AI Engineer • Full Stack Developer • Founder of ZARO
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Founder+of+ZARO;Freelance+Web+Developer;Machine+Learning+Engineer;Building+Future+with+AI;Always+Learning+Something+New"/>
-
-</div>
-
----
-
-<div align="center">
+<br>
 
 ![](https://komarev.com/ghpvc/?username=gopiprakan&style=for-the-badge&color=blueviolet)
-
 ![](https://img.shields.io/github/followers/gopiprakan?style=for-the-badge)
-
 ![](https://img.shields.io/github/stars/gopiprakan?style=for-the-badge)
-
 ![](https://img.shields.io/badge/Open%20to-Freelance-success?style=for-the-badge)
 
 </div>
 
 ---
 
-# ⚡ About Me
+# 💫 About Me
 
 ```yaml
 Name: Gopiprakan
 
 Education:
-   B.Tech Artificial Intelligence & Data Science
+  B.Tech Artificial Intelligence & Data Science
 
 College:
-   V.S.B Engineering College
+  V.S.B Engineering College
+
+Founder:
+  ZARO
 
 Role:
-   Founder @ ZARO
+  AI Developer
+  Full Stack Developer
+  Freelancer
 
-Interest:
-   - Artificial Intelligence
-   - Machine Learning
-   - Data Science
-   - Full Stack Development
-   - UI/UX
-   - Cloud
+Currently Learning:
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Full Stack Development
 
-Mission:
-   Build AI Products that solve real-world problems.
+Goal:
+  Build AI Products that solve real-world problems.
 ```
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 Current Focus
 
-> 🤖 AI SaaS Products
-
-> 🌍 Modern Business Websites
-
-> ⚡ Full Stack Applications
-
-> 📊 Data Analytics Projects
-
-> 🔥 Open Source Contributions
-
-> 💼 Freelance Client Projects
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
+- 🚀 Building ZARO
+- 💼 Freelancing
+- 🌍 Open Source Contributions
 
 ---
 
-# 💻 Tech Universe
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgresql,firebase,supabase,tailwind,bootstrap,html,css,git,github,vscode,docker,figma,linux"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgresql,firebase,supabase,tailwind,bootstrap,git,github,docker,vscode,figma,linux"/>
 
 </div>
 
 ---
 
-# 🧠 AI & Data Science
+# 🤖 AI & Data Science
 
 <div align="center">
 
@@ -98,59 +81,32 @@ Mission:
 
 </div>
 
-✔ Machine Learning
+### Skills
 
-✔ Deep Learning
-
-✔ NLP
-
-✔ Computer Vision
-
-✔ Generative AI
-
-✔ LLM Applications
-
-✔ RAG Systems
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Data Analytics
+- LLM Applications
+- Generative AI
+- RAG
+- AI Automation
 
 ---
 
 # 💼 Freelance Services
 
-<table>
-
-<tr>
-
-<td>🌐 Business Websites</td>
-
-<td>⚡ Landing Pages</td>
-
-</tr>
-
-<tr>
-
-<td>🎨 UI/UX Design</td>
-
-<td>📱 Responsive Design</td>
-
-</tr>
-
-<tr>
-
-<td>🚀 Startup MVP</td>
-
-<td>🛒 E-Commerce</td>
-
-</tr>
-
-<tr>
-
-<td>🔧 Backend APIs</td>
-
-<td>☁ Cloud Deployment</td>
-
-</tr>
-
-</table>
+| Service | Available |
+|----------|-----------|
+| 🌐 Business Website | ✅ |
+| 🛒 E-Commerce Website | ✅ |
+| 🎨 UI/UX Design | ✅ |
+| ⚡ Landing Pages | ✅ |
+| 📱 Responsive Website | ✅ |
+| 🔥 React Development | ✅ |
+| 🗄 Backend APIs | ✅ |
+| ☁ Deployment | ✅ |
 
 ---
 
@@ -159,29 +115,31 @@ Mission:
 | Project | Description |
 |----------|-------------|
 | 🤖 AI Chatbot | AI-powered College Assistant |
-| 🔐 Two-Step Authentication | Secure Login System |
+| 🔐 Two-Step Verification | Authentication System |
 | ⛓ Blockchain Verification | Certificate Verification |
-| 💧 DHARNIKAA | Pure Water Company Website |
+| 💧 DHARNIKAA | Water Company Website |
 | 🚢 Water Transport | Business Website |
-| 🌐 Portfolio Websites | Client Projects |
+| 🌐 Portfolio Websites | Freelance Projects |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gopiprakan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gopiprakan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopiprakan&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gopiprakan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 📈 Contribution Graph
+
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=gopiprakan&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopiprakan&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -191,73 +149,63 @@ Mission:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gopiprakan&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gopiprakan&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 📈 Languages
+# 💻 Most Used Languages
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopiprakan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopiprakan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Coding Profiles
+# 📂 Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/wZeBSNNRFh/">
-
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
 </a>
 
 <a href="https://www.kaggle.com/gopiprakan">
-
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-
 </a>
 
 </div>
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/gopiprakan">
-
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/gopiprakan-s-98ab41292/">
-
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-
 </a>
 
 <a href="https://www.instagram.com/mr_creative_officl/">
-
 <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
-
 </a>
 
 </div>
 
 ---
 
-# 💡 Quote
+# 🎯 Quote
 
 <div align="center">
 
-> ### "Technology becomes meaningful when it solves real-world problems."
+> **"Technology becomes meaningful when it solves real-world problems and creates value for people."**
 
 </div>
 
@@ -273,7 +221,7 @@ Mission:
 
 ---
 
-# ⚡ Random Dev Quote
+# ⚡ Random Developer Quote
 
 <div align="center">
 
@@ -283,7 +231,19 @@ Mission:
 
 ---
 
-# 🎵 Coding Vibes
+# 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopiprakan&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🎵 Spotify (Optional)
+
+Replace **YOUR_SPOTIFY_ID** with your Spotify ID.
 
 <div align="center">
 
@@ -293,7 +253,7 @@ Mission:
 
 ---
 
-# 👨‍💻 Visitors
+# 👀 Visitors
 
 <div align="center">
 
@@ -305,10 +265,10 @@ Mission:
 
 <div align="center">
 
-# ⭐ Thanks for visiting!
+## ⭐ Thanks for Visiting
 
-### 🚀 Building the Future with AI
+### 🚀 Let's Build Something Amazing Together!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750221-97c3d0d2-d8d7-48e3-9fb3-73a6f37fd80f.gif"/>
 
 </div>
