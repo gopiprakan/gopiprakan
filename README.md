@@ -215,7 +215,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gopiprakan/gopiprakan/output/github-contribution-grid-snake-dark.svg"/>
+<img src="[https://raw.githubusercontent.com/gopiprakan/gopiprakan/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/gopiprakan/gopiprakan/output/github-contribution-grid-snake.svg)"/>
 
 </div>
 
