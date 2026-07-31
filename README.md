@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-7d4d8d96-52f1-43ff-8a2b-7e7f9a47d6e3.gif"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi,I'm Gopiprakan
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Gopiprakan
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Founder+of+ZARO;Freelance+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Technologies" />
 
