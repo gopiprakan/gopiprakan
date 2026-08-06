@@ -24,7 +24,7 @@
 # 💫 About Me
 
 ```yaml
-Name: Gopiprakan 
+Name: Gopiprakan
 
 Education:
   B.Tech Artificial Intelligence & Data Science
