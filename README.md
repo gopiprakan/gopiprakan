@@ -27,7 +27,7 @@
 Name: Gopiprakan
 
 Education:
-  B.Tech Artificial Intelligence & Data Science
+  (B.Tech) Artificial Intelligence & Data Science
 
 College:
   V.S.B Engineering College
