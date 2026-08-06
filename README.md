@@ -30,7 +30,7 @@ Education:
   (B.Tech) Artificial Intelligence & Data Science
 
 College:
-  V.S.B Engineering College
+  V.S.B Engineering College karur
 
 Founder:
   ZARO
