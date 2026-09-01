@@ -38,7 +38,7 @@ Founder:
 Role:
   AI Developer
   Full Stack Developer
-  Freelancer
+  Freelancer 
 
 Currently Learning:
   - Machine Learning
