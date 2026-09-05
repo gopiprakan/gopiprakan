@@ -179,16 +179,6 @@ Goal:
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="[https://raw.githubusercontent.com/gopiprakan/gopiprakan/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/gopiprakan/gopiprakan/output/github-contribution-grid-snake.svg)"/>
-
-</div>
-
----
-
 # ⚡ Random Developer Quote
 
 <div align="center">
