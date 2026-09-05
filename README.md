@@ -123,12 +123,6 @@ Goal:
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
----
-
 # 📂 Coding Profiles
 
 <div align="center">
